@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Momen+%F0%9F%91%8B;CS+Student+%26+Data+Science+Enthusiast;Python+%7C+SQL+%7C+C%2B%2B+Developer;Always+Learning+Something+New+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Momen+%F0%9F%91%8B;CS+Student+%26+Data+Science+Enthusiast;Python+%7C+SQL+%7C+C%2B%2B+Developer;Always+Learning+Something+New+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -64,28 +64,15 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=momen223&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momen223&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=momen223&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&cache_seconds=1800"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momen223&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&cache_seconds=1800"/>
 
 </div>
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=momen223&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![sms-spam-detector](https://github-readme-stats.vercel.app/api/pin/?username=momen223&repo=sms-spam-detector&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/momen223/sms-spam-detector)
-[![My-Book-Collection](https://github-readme-stats.vercel.app/api/pin/?username=momen223&repo=My-Book-Collection&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/momen223/My-Book-Collection)
-
-[![password_manager](https://github-readme-stats.vercel.app/api/pin/?username=momen223&repo=password_manager&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/momen223/password_manager)
-[![-Timed-Math-Challenge](https://github-readme-stats.vercel.app/api/pin/?username=momen223&repo=-Timed-Math-Challenge&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/momen223/-Timed-Math-Challenge)
 
 </div>
 
@@ -105,8 +92,9 @@ me.say_hi()
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-momen--ayman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/momen-ayman-411250313)
+[![Gmail](https://img.shields.io/badge/Gmail-momenayman709@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:momenayman709@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-momen223-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/momen223)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
 
