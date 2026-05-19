@@ -96,10 +96,21 @@ me.say_hi()
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-astonishing--crepe--ab2698-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://astonishing-crepe-ab2698.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-momen--ayman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/momen-ayman-411250313)
-[![Gmail](https://img.shields.io/badge/Gmail-momenayman709@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:momenayman709@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-momen223-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/momen223)
+<a href="https://astonishing-crepe-ab2698.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-58a6ff?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/momen-ayman-411250313" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-momen--ayman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:momenayman709@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-momenayman709%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+&nbsp;
+<a href="https://github.com/momen223" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-momen223-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 </div>
 
